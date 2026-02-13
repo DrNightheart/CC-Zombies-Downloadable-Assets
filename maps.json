@@ -1,0 +1,40 @@
+{
+  "maps": [
+    {
+      "name": "Tranzit",
+      "file": "Tranzit.json",
+      "description": "Bus Depot to Town",
+      "author": "Original",
+      "version": "1.0",
+      "size": 135,
+      "url": "https://raw.githubusercontent.com/DrNightheart/Call-of-CC-Zombies/main/maps/Tranzit.json"
+    },
+    {
+      "name": "N.H. Labs",
+      "file": "NHLabs.json",
+      "description": "Secret Research Facility",
+      "author": "Original",
+      "version": "1.0",
+      "size": 100,
+      "url": "https://raw.githubusercontent.com/DrNightheart/Call-of-CC-Zombies/main/maps/NHLabs.json"
+    },
+    {
+      "name": "Origins",
+      "file": "Origins.json",
+      "description": "Excavation Site 64, France",
+      "author": "Original",
+      "version": "1.0",
+      "size": 190,
+      "url": "https://raw.githubusercontent.com/DrNightheart/Call-of-CC-Zombies/main/maps/Origins.json"
+    },
+    {
+      "name": "Der Riese",
+      "file": "DerRiese.json",
+      "description": "The Giant - Not actually a real map yet, havent made it nor do i plan on making it.,
+      "author": "Community",
+      "version": "1.0",
+      "size": 180,
+      "url": "https://raw.githubusercontent.com/DrNightheart/Call-of-CC-Zombies/main/maps/DerRiese.json"
+    }
+  ]
+}
