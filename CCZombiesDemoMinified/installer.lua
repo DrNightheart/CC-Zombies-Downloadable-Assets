@@ -5,7 +5,7 @@
 -- ============================================================
 
 local URLS = {
-    game    = "https://raw.githubusercontent.com/DrNightheart/CC-Zombies-Downloadable-Assets/refs/heads/main/CCZombiesDemoMinified/CCZombiesDEMO.lua",
+    game    = "https://raw.githubusercontent.com/DrNightheart/CC-Zombies-Downloadable-Assets/refs/heads/main/CCZombiesDemoMinified/CCZombiesDEMO1.lua",
     api     = "https://raw.githubusercontent.com/DrNightheart/CC-Zombies-Downloadable-Assets/refs/heads/main/CCZombiesDemoMinified/CCZ_API.lua",
     pine3d  = "https://raw.githubusercontent.com/Xella37/Pine3D/refs/heads/main/Pine3D-minified.lua",
     blittle = "https://raw.githubusercontent.com/Xella37/Pine3D/refs/heads/main/betterblittle.lua",
