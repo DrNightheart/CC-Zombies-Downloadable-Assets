@@ -1,27 +1,27 @@
 {
   "maps": [
     {
-      "name": "Bus Depot Demo",
+      "name": "Bus Depot Demo PLACEHOLDER MAP",
       "file": "Tranzit.json",
-      "description": "Bus Depot to Town",
+      "description": "Bus Depot to Town. PLACEHOLDER MAP",
       "author": "Original",
       "version": "1.0",
       "size": 135,
       "url": "https://raw.githubusercontent.com/DrNightheart/CC-Zombies-Downloadable-Assets/refs/heads/main/maps/Tranzit.json"
     },
     {
-      "name": "N.H. Labs",
+      "name": "N.H. Labs PLACEHOLDER MAP",
       "file": "NHLabs.json",
-      "description": "Secret Research Facility",
+      "description": "Secret Research Facility. PLACEHOLDER MAP",
       "author": "Original",
       "version": "1.0",
       "size": 100,
       "url": "https://raw.githubusercontent.com/DrNightheart/Call-of-CC-Zombies/main/maps/NHLabs.json"
     },
     {
-      "name": "Origins",
+      "name": "Origins PLACEHOLDER MAP",
       "file": "Origins.json",
-      "description": "Excavation Site 64, France",
+      "description": "Excavation Site 64, France. PLACEHOLDER MAP",
       "author": "Original",
       "version": "1.0",
       "size": 190,
