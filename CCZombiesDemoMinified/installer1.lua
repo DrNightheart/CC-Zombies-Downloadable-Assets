@@ -1,8 +1,4 @@
--- ============================================================
--- CC:ZOMBIES DEMO INSTALLER
--- Run this script once to install everything you need.
--- It is safe to re-run — existing files will be updated.
--- ============================================================
+
 
 local URLS = {
     game    = "https://raw.githubusercontent.com/DrNightheart/CC-Zombies-Downloadable-Assets/refs/heads/main/CCZombiesDemoMinified/CCZombiesDEMO1.lua",
@@ -61,7 +57,7 @@ local function writeSprite(dest, content)
     return true
 end
 
--- ── START ─────────────────────────────────────────────────
+
 header()
 
 local failed = 0
@@ -576,11 +572,11 @@ else
     failed = failed + spriteFail
 end
 
--- ── SUMMARY ───────────────────────────────────────────────
+
 print("")
 print("================================")
 if failed == 0 then
-    printc(colors.lime, "  Installation complete!")
+    printc(colors.lime, "  Installation complete! Hhaaaaaaaaaaaaveee fuuuuuuuunnnn :3ccc")
     print("")
     printc(colors.white, "  To play, type:")
     printc(colors.yellow, "    CCZombiesDemo")
