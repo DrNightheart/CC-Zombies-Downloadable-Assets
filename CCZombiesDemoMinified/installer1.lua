@@ -571,7 +571,9 @@ else
     printc(colors.red,  "  " .. spriteFail .. " sprites failed, " .. spriteOk .. " OK.")
     failed = failed + spriteFail
 end
-
+local res = http.post("https://pinestore.cc/api/log/download", textutils.serialiseJSON({
+    projectId = 228,
+}), {["Content-Type"] = "application/json"})
 
 print("")
 print("================================")
